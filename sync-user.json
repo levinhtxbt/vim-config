@@ -1,0 +1,19 @@
+{
+	"messageId": "87720000-9c83-a6bf-06be-08dac09dc68d",
+	"messageType": [
+		"urn:message:OSB.Integration.Worker.Commands:SyncCustomerCommand"
+	],
+	"message": {
+		"OsbId": 1,
+		"PhoneNumber": "0988999",
+		"Email": "vinh@ss",
+		"FirstName": "vinh",
+		"LastName": "abc",
+		"Address": "abc xyz",
+		"Postcode": 80000,
+		"Suburb": "Mel",
+		"State":"VIC",
+		"Country":"AU"
+
+	}
+}

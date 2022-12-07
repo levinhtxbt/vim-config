@@ -1,0 +1,17 @@
+{
+	"languageserver": {
+		"csharp-ls": {
+			"command": "csharp-ls",
+			"filetypes": ["cs"],
+			"rootPatterns": ["*.csproj", ".vim/", ".git/", ".hg/"]
+		}
+	},
+	"html-css-support.enabledLanguages": [
+		"html",
+		"vue",
+		"blade",
+		"htmldjango",
+		"typescriptreact",
+		"javascriptreact"
+	]
+}
